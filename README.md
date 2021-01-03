@@ -14,6 +14,14 @@
 <br>
 <br/>
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY?si=KlT64oevQTWCJFR-6CrKRg)
+
+<br>
+<br>
+<br>
+
 > [![Aswin Sankar's github stats](https://github-readme-stats.vercel.app/api?username=aswin888&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 > <br>
 > <a href="https://github.com/aswin888/FaceDetector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aswin888&theme=nightowl&repo=FaceDetector" /></a>
