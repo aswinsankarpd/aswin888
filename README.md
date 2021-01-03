@@ -2,18 +2,7 @@
 
 ## I'm Aswin Sankar😊
 ---
-<br/>
-<a target="_blank" href="">
-  <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-</a>&nbsp;&nbsp;
-<a target="_blank" href="">
-  <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
-  </a>&nbsp;&nbsp;
-  <a target="_blank" href="">
-  <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
-  </a>&nbsp;&nbsp;
-  <br/><br/>
-  <br>
+
 ## Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
