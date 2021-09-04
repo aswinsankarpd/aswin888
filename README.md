@@ -1,15 +1,13 @@
-<h2> hello, hola, Ciao, नमस्ते 🙏 I am Aswin Sankar. </h2>
-<br/>
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
-<hr>
+<h3 align="center">
+  Welcome to Aswin Sankar's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-👀 
-<br/>
+👀:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aswin888)
 
 
-🥳
-<br/>
+🥳:
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/aswin888/Python)
 
 📊
@@ -21,10 +19,9 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin888&theme=blue-green)
 
 
-I know you are stressed 😭
+**I know you are stressed 😭**
 <br/>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-
-<hr/>
+## 🔥 Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aswin888&theme=vue-dark)](https://git.io/streak-stats)
