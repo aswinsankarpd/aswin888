@@ -3,7 +3,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin888&theme=blue-green)
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=aswin888/Python) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
