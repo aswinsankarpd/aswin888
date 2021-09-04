@@ -1,6 +1,6 @@
 <h2> hello, hola, Ciao, नमस्ते 🙏 I am Aswin Sankar. </h2>
 <br/>
-![Alt Text](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 <hr>
 
 👀 
