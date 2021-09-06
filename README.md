@@ -18,10 +18,11 @@
 <br/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin888&theme=blue-green)
 
-
-**I know you are stressed 😭**
+<!--- **I know you are stressed 😭**
 <br/>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🔥 Streak stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aswin888&theme=vue-dark)](https://git.io/streak-stats)
+
+--->
