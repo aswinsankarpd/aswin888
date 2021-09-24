@@ -1,3 +1,4 @@
+<!---
 <h3 align="center">
   Welcome to Aswin Sankar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -18,7 +19,6 @@
 <br/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin888&theme=blue-green)
 
-<!--- **I know you are stressed 😭**
 <br/>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
