@@ -1,4 +1,4 @@
-\^_^/ 
+^_^
 <!---
 <h3 align="center">
   Welcome to Aswin Sankar's profile!
